@@ -1,0 +1,1 @@
+*/15 * * * * sh /home/chuzhihua/cronTabSH/crontime.sh > /home/chuzhihua/cronTabSH/log.txt 2>&1
